@@ -1,2 +1,2 @@
 # Data-Science
-All Datascience assignments done in Python and R.
+This Repository contains all the Data Science assignments and projects done in R and Python.
