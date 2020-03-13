@@ -1,0 +1,498 @@
+Chunking : 
+(S
+  (NP siirh2020/NN ecir2020/NN)
+  (NP workshopsearch/NN sitesiirh2020/NN)
+  ecir2020/VBZ
+  workshopsemantic/JJ
+  indexing/VBG
+  (NP information/NN retrieval/NN)
+  (NP health/NN)
+  (NP heterogeneous/JJ content/NN)
+  types/NNS
+  (NP
+    languagesimportant/JJ
+    dates-/JJ
+    open/JJ
+    sessionsubmissionfull/NN)
+  papers/NNS
+  january/VBP
+  27/CD
+  2020/CD
+  11:59pm/CD
+  (NP gmt/NN)
+  february/JJ
+  3/CD
+  2020/CD
+  11:59pm/CD
+  (NP gmt/NN)
+  short/JJ
+  papers/NNS
+  abstracts/VBZ
+  march/VBP
+  9/CD
+  2020notificationsfull/CD
+  papers/NNS
+  february/JJ
+  28/CD
+  2020short/CD
+  papers/NNS
+  abstracts/VBZ
+  march/VBP
+  16/CD
+  2020camera/CD
+  ready/JJ
+  contributions30/VBN
+  (NP march/NN)
+  2020/CD
+  11:59pm/CD
+  (NP gmt/NN mesinesp/NN)
+  (NP session/NN)
+  deadlines/NNS
+  check/VB
+  (NP http/JJ //temu.bsc.es/mesinesp/-/JJ workshop/NN)
+  14/CD
+  (NP april/NN)
+  2020/CD
+  (NP lisbon/NN)
+  portugalheld/VBD
+  (NP conjunction/NN)
+  42nd/CD
+  european/JJ
+  (NP conference/NN information/NN)
+  (NP retrieval/NN ecir2020/NN)
+  topicsthere/RB
+  increasing/VBG
+  (NP interest/NN)
+  exploiting/VBG
+  (NP vast/JJ amount/NN)
+  rapidly/RB
+  growing/VBG
+  (NP content/NN)
+  related/VBN
+  (NP health/NN)
+  means/VBZ
+  (NP information/NN retrieval/NN)
+  (NP deep/JJ learning/NN)
+  strategies/NNS
+  health-related/JJ
+  content/JJ
+  particularly/RB
+  challenging/VBG
+  due/JJ
+  specialized/VBN
+  (NP domain/NN language/NN)
+  implicit/JJ
+  differences/NNS
+  (NP language/NN)
+  characteristics/NNS
+  depending/VBG
+  (NP content/JJ type/JJ patient-generated/JJ content/NN)
+  like/IN
+  (NP discussion/NN forum/NN)
+  blogs/NNS
+  (NP internet/NN)
+  sources/NNS
+  healthcare/VBP
+  (NP documentation/NN)
+  clinical/JJ
+  records/NNS
+  professional/JJ
+  scientific/JJ
+  publications/NNS
+  (NP clinical/JJ practice/NN)
+  guidelines/NNS
+  clinical/JJ
+  trials/NNS
+  (NP documentation/NN etc./NN)
+  (NP moreover/NN)
+  also/RB
+  critical/JJ
+  provide/VBP
+  search/JJ
+  solutions/NNS
+  non-english/JJ
+  content/JJ
+  well/RB
+  cross-language/JJ
+  multilingual/JJ
+  (NP ir/NN solutions.this/NN)
+  (NP workshop/NN forum/NN)
+  (NP community/NN)
+  (NP present/JJ discuss/NN)
+  (NP current/JJ future/NN)
+  directions/NNS
+  (NP area/NN)
+  based/VBN
+  (NP experience/NN)
+  results/NNS
+  obtained/VBD
+  bioasq/JJ
+  (NP task/NN moreover/NN)
+  (NP workshop/NN proposal/NN)
+  (NP addition/NN)
+  mesinesp/FW
+  (NP http/NN //temu.bsc.es/mesinesp//NN)
+  (NP session/NN)
+  include/VBP
+  (NP open/JJ session/NN)
+  covering/VBG
+  ir/JJ
+  technologies/NNS
+  (NP heterogeneous/JJ health-related/JJ content/NN)
+  open/JJ
+  multiple/JJ
+  languages/NNS
+  particular/JJ
+  (NP interest/NN exploitation/NN)
+  structured/VBD
+  controlled/JJ
+  vocabularies/NNS
+  (NP entity/NN)
+  linking/VBG
+  among/IN
+  proposed/VBN
+  topics/NNS
+  (NP open/JJ session/NN)
+  multilingual/JJ
+  non-english/JJ
+  health-related/JJ
+  (NP ir/NN concept/NN)
+  indexing/VBG
+  (NP text/JJ categorization/NN)
+  strategies/NNS
+  (NP generation/NN evaluation/NN)
+  resources/NNS
+  biomedical/JJ
+  (NP document/NN ir/NN)
+  strategies/NNS
+  (NP scalability/NN)
+  robustness/VBP
+  (NP reproducibility/NN health/NN)
+  biomedical/JJ
+  (NP ir/NN text/NN)
+  (NP mining/NN)
+  resources/NNS
+  use/VBP
+  specialized/JJ
+  (NP machine/NN translation/NN)
+  advanced/VBD
+  (NP deep/JJ learning/NN)
+  approaches/NNS
+  improving/VBG
+  (NP health/NN)
+  related/VBN
+  (NP search/NN)
+  results/NNS
+  (NP medical/JJ question/NN)
+  answering/VBG
+  (NP search/NN)
+  tools/NNS
+  retrieval/VBP
+  (NP multilingual/JJ health/NN)
+  related/VBN
+  (NP web-content/JJ related/JJ topics.submission/NN)
+  details/NNS
+  open/VBP
+  sessionall/JJ
+  submissions/NNS
+  must/MD
+  written/VBN
+  english/VB
+  following/VBG
+  springer/JJR
+  (NP lncs/JJ author/NN)
+  guidelines/NNS
+  submitted/VBD
+  pdf/JJ
+  files/NNS
+  easychair/VBP
+  least/JJS
+  one/CD
+  (NP author/NN)
+  per/IN
+  (NP paper/NN)
+  needs/NNS
+  register/VBP
+  attend/VBP
+  (NP workshop/JJ present/JJ work/NN)
+  full/JJ
+  papers/NNS
+  maximum/VBP
+  6/CD
+  pages/NNS
+  including/VBG
+  (NP referencesshort/NN)
+  papers/NNS
+  maximum/VBP
+  3/CD
+  pages/NNS
+  including/VBG
+  references/NNS
+  abstracts/VBZ
+  maximum/JJ
+  1/CD
+  (NP page/NN)
+  including/VBG
+  referencesspringer/JJR
+  (NP lncs/JJ http/NN)
+  (NP
+    //www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelineseasychair/JJ
+    https/NN)
+  //easychair.org/conferences//NNP
+  (NP conf=siirh2020/NN)
+  accepted/VBD
+  papers/NNS
+  abstracts/NNS
+  published/VBN
+  (NP issue/NN)
+  (NP ceur-ws/JJ http/JJ //ceur-ws.org//JJ journal/NN)
+  (NP special/JJ issuethe/NN)
+  planned/VBN
+  (NP workshop/NN)
+  functions/NNS
+  venue/VBP
+  different/JJ
+  types/NNS
+  contributors/NNS
+  mainly/RB
+  task/VBP
+  providers/NNS
+  solution/VBP
+  providers/NNS
+  meet/VB
+  together/RB
+  (NP exchange/NN experiences.we/NN)
+  expect/VBP
+  (NP investigation/NN)
+  topics/NNS
+  (NP task/NN)
+  continue/VBP
+  workshop/NNS
+  based/VBN
+  new/JJ
+  insights/NNS
+  obtained/VBN
+  discussions/NNS
+  workshop.as/VBP
+  (NP venue/NN)
+  compile/JJ
+  results/NNS
+  follow-up/JJ
+  (NP investigation/NN journal/NN)
+  (NP special/JJ issue/NN)
+  organized/VBN
+  published/VBN
+  months/NNS
+  workshop/IN
+  (NP specific/JJ journal/NN)
+  announced/VBD
+  (NP negotiation/NN publishersorganizersmartin/NN)
+  (NP krallinger/NN)
+  text/IN
+  mining/VBG
+  (NP unit/NN)
+  barcelona/JJ
+  supercomputing/VBG
+  (NP center/NN bsc/NN)
+  (NP francisco/NN m./NN)
+  (NP couto/NN university/NN)
+  (NP lisbon/NN)
+  portugal/JJ
+  (NP programme/NN committee/NN)
+  alberto/IN
+  lavelli/JJ
+  (NP fbk/NN trento/NN)
+  (NP italyalfonso/NN valencia/NN)
+  barcelona/IN
+  supercomputing/VBG
+  (NP center/NN spainanalia/NN)
+  (NP lourenco/JJ universidade/NN)
+  de/IN
+  vigo/FW
+  spainanastasios/NNS
+  nentidis/VBP
+  (NP national/JJ center/NN)
+  scientific/JJ
+  (NP research/NN demokritos/NN)
+  (NP greeceandré/NN)
+  lamurias/VBD
+  lasige/JJ
+  portugalanne-lyse/JJ
+  (NP minard/NN university/NN)
+  orleans/VBZ
+  francearon/JJ
+  (NP henriksson/NN stockholm/NN)
+  (NP university/NN swedenbruno/NN)
+  martins/VBZ
+  inesc-id/JJ
+  portugalcarsten/NNS
+  eickhoff/VBP
+  (NP brown/JJ university/NN)
+  (NP usachih-hsuan/JJ wei/NN)
+  (NP ncbi/nih/JJ national/JJ library/JJ medicine/NN)
+  usacyril/JJ
+  (NP grouin/NN limsi/NN)
+  (NP cnrs/NN)
+  université/JJ
+  paris-saclay/JJ
+  (NP orsay/NN francediana/NN)
+  (NP sousa/NN)
+  lasige/JJ
+  portugaldimitrios/NNS
+  kokkinakis/VBP
+  (NP university/NN gothenburg/NN)
+  (NP swedeneben/NN holderness/NN)
+  mclean/JJ
+  (NP hospital/NN harvard/NN)
+  medical/JJ
+  (NP school/NN brandeis/NN)
+  (NP university/NN)
+  usaellen/JJ
+  vorhees/NNS
+  (NP national/JJ institute/NN)
+  standards/NNS
+  (NP technology/NN)
+  nist/JJ
+  usa.fabio/JJ
+  (NP rinaldi/NN idsia/NN)
+  (NP university/NN)
+  zurich/NNP
+  (NP switzerland/NN fbk/NN)
+  trento/IN
+  (NP italyfleur/NN mougin/NN)
+  (NP university/NN bordeaux/NN)
+  (NP francegeorgeta/NN bordea/NN)
+  université/FW
+  de/FW
+  bordeaux/FW
+  francegeorgios/NNS
+  paliouras/VBP
+  (NP national/JJ center/NN)
+  scientific/JJ
+  (NP research/NN demokritos/NN)
+  greecegoran/VBD
+  nenadic/JJ
+  (NP university/NN manchester/NN)
+  ukgraciela/JJ
+  gonzalez-hernandez/JJ
+  (NP university/NN pennsylvania/NN)
+  usahanna/JJ
+  (NP suominen/NN csiro/NN)
+  australiahenning/VBG
+  (NP muller/NN university/NN)
+  applied/VBD
+  sciences/NNS
+  western/JJ
+  switzerland/VBP
+  switzerlandhercules/NNS
+  dalianis/VBP
+  stockholm/JJ
+  (NP university/NN swedenhyeju/NN)
+  (NP jang/NN university/NN)
+  (NP british/JJ columbia/NN)
+  canadajames/NNS
+  pustejovsky/VBP
+  (NP brandeis/JJ university/NN)
+  usajin-dong/JJ
+  kim/NNP
+  (NP research/NN organization/NN)
+  (NP information/NN)
+  systems/NNS
+  japanjong/JJ
+  c./JJ
+  (NP park/NN kaist/NN)
+  (NP computer/NN science/NN)
+  koreakevin/NNP
+  (NP bretonnel/NN cohen/NN)
+  (NP university/NN)
+  colorado/VBP
+  (NP school/NN medicine/NN)
+  aurora/IN
+  (NP colorado/NN)
+  usamaria/NNS
+  skeppstedt/VBP
+  (NP institute/JJ language/NN)
+  folklore/RB
+  swedenmarcia/JJ
+  barros/NNS
+  lasige/VBP
+  portugalmariana/IN
+  lara-neves/JJ
+  german/JJ
+  federal/JJ
+  (NP institute/NN risk/NN)
+  (NP assessment/NN germanymarta/NN)
+  (NP villegas/NN bsc/NN)
+  (NP spainpedro/NN ruas/NN)
+  (NP lasige/NN portugalrafael/NN)
+  (NP berlanga/NN)
+  llavori/FW
+  (NP universitat/JJ jaume/NN)
+  spainrezarta/VBD
+  islamaj-dogan/JJ
+  nih/nlm/ncbi/JJ
+  usasérgio/JJ
+  (NP matos/NN university/NN)
+  aveiro/VBP
+  portugalshyamasree/JJ
+  saha/NNS
+  europe/VBP
+  pubmed/JJ
+  central/JJ
+  european/JJ
+  bioinformatics/NNS
+  institute/VBP
+  embl-ebi/JJ
+  uksuzanne/JJ
+  (NP tamang/NN stanford/NN)
+  (NP university/NN school/NN)
+  (NP medicine/NN)
+  usathierry/JJ
+  (NP hamon/NN limsi/NN)
+  (NP cnrs/NN)
+  (NP université/JJ paris-saclay/JJ orsay/NN)
+  (NP université/JJ paris/NN)
+  13/CD
+  (NP villetaneuse/NN francethomas/NN)
+  (NP brox/NN røst/NN)
+  norwegian/JJ
+  (NP university/NN science/NN)
+  (NP technology/NN norwayyifan/NN)
+  (NP peng/NN)
+  (NP ncbi/nih/JJ national/JJ library/JJ medicine/NN)
+  usayonghui/JJ
+  (NP wu/NN university/NN)
+  (NP florida/NN)
+  usayoshinobu/JJ
+  (NP kano/NN shizuoka/NN)
+  (NP university/NN japanzhiyong/NN)
+  (NP lu/NN)
+  (NP ncbi/nih/JJ national/JJ library/JJ medicine/NN)
+  usazita/JJ
+  (NP marinho/NN priberam/NN)
+  (NP portugalcontactall/NN)
+  questions/NNS
+  submissions/NNS
+  emailed/VBD
+  siirh2020/JJ
+  (NP easychair.orgsponsorsreport/NN abusepage/NN)
+  (NP detailspage/NN)
+  updated/VBD
+  (NP report/NN)
+  abusethis/NNS
+  (NP site/NN)
+  uses/VBZ
+  cookies/NNS
+  google/VBP
+  (NP deliver/NN)
+  services/NNS
+  analyze/VBP
+  (NP traffic/NN information/NN)
+  (NP use/NN site/NN)
+  shared/VBN
+  (NP google/NN)
+  using/VBG
+  (NP site/NN)
+  agree/JJ
+  (NP use/NN cookies.learn/NN)
+  moregot/VBD)

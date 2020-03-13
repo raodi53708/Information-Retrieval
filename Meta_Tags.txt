@@ -1,0 +1,2 @@
+Meta Tags: 
+[None, None, 'viewport', 'width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no', None, 'IE=edge', None, 'website', None, 'SIIRH2020 - ECIR2020 workshop', None, 'https://sites.google.com/view/siirh2020/', None, 'https://ssl.gstatic.com/atari/images/atari-logo.png', None, 'https://ssl.gstatic.com/atari/images/atari-logo.png']
